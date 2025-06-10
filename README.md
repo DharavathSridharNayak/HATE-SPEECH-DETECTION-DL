@@ -18,14 +18,12 @@ CNNs: Detect local patterns (e.g., slurs) via convolutional filters.
 
 RNNs/LSTMs: Analyze sequential context for sarcasm or implicit hate.
 
-Transformers (BERT, GPT): Leverage self-attention to understand nuanced hate speech.
-
-👉 [Click here to try the HATE SPEECH DETECTION APP on Hugging Face] (https://huggingface.co/spaces/DharavathSri/HATE-SPEECH-DETECTION-DEEP-LEARNING)
-
-
+Transformers (BERT, GPT): Leverage self-attention to understand nuanced hate speech
 
 Training & Evaluation:
 
 Models are trained on labeled datasets (e.g., HateXplain, Twitter Hate Speech) and evaluated using precision, recall, and F1-score.
+
+👉 [Click here to try the HATE SPEECH DETECTION APP on Hugging Face] (https://huggingface.co/spaces/DharavathSri/HATE-SPEECH-DETECTION-DEEP-LEARNING)
 
 
