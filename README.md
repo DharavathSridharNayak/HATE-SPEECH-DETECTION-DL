@@ -20,6 +20,8 @@ RNNs/LSTMs: Analyze sequential context for sarcasm or implicit hate.
 
 Transformers (BERT, GPT): Leverage self-attention to understand nuanced hate speech.
 
+👉 [Click here to try the HATE SPEECH DETECTION APP on Hugging Face] (https://huggingface.co/spaces/DharavathSri/HATE-SPEECH-DETECTION-DEEP-LEARNING)
+
 
 
 Training & Evaluation:
