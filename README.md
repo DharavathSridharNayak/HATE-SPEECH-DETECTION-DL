@@ -12,18 +12,7 @@ Text Preprocessing:
 Raw text is cleaned by removing noise (special characters, URLs) and normalized (lowercasing, stemming).
 
 
-
-Feature Representation:
-
-
-
-Word embeddings (Word2Vec, GloVe) or contextual embeddings (BERT, RoBERTa) convert words into numerical vectors.
-
-
-
 Model Selection:
-
-
 
 CNNs: Detect local patterns (e.g., slurs) via convolutional filters.
 
@@ -34,9 +23,6 @@ Transformers (BERT, GPT): Leverage self-attention to understand nuanced hate spe
 
 
 Training & Evaluation:
-
-
-
 
 Models are trained on labeled datasets (e.g., HateXplain, Twitter Hate Speech) and evaluated using precision, recall, and F1-score.
 
