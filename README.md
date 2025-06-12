@@ -28,4 +28,9 @@ Models are trained on labeled datasets (e.g., HateXplain, Twitter Hate Speech) a
 
 👉 [Click here to try the HATE SPEECH DETECTION APP on Hugging Face] (https://huggingface.co/spaces/DharavathSri/HATE-SPEECH-DETECTION-DEEP-LEARNING)
 
+📸 Screenshot 👇
+
+![{302DF5F6-D883-4B18-B5E9-B8A61148F5E1}](https://github.com/user-attachments/assets/1c7b16db-9190-45bf-a4bf-135a5a35c078)
+
+
 
